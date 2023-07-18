@@ -1,0 +1,12 @@
+CONTRIBUTING.md
+LICENSE
+NOTICE
+README.md
+Snippets.md
+Solutions
+dir1
+dir2
+dir3
+lorem.txt
+myscript
+output.txt
